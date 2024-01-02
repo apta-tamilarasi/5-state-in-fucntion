@@ -1,0 +1,101 @@
+    
+.header{
+    /* display: flex;
+    justify-content: space-between; */
+    background-color:aqua;
+    padding: 2%;
+    position: relative;
+}
+
+#content{
+    /* display: flex;
+    width:80%;
+    justify-content: space-between; */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    position:absolute;
+}
+
+#image{
+    width:20px;
+    height: 20px;
+    border-radius: 50%;
+
+}
+
+#logo{
+    color:red;
+    font-size: 22px;
+}
+
+@media(min-width:260px){
+    #bar .icon{
+        display: block;
+    }
+
+    #content{
+        display: none;
+    }
+
+    .header{
+        justify-content: space-between;
+        display: flex;
+    }
+
+
+
+}
+
+@media(min-width:660px){
+    .header{
+        justify-content: space-between;
+        display: flex;
+    }
+    
+    #content{
+        display: none;
+        display: flex;
+        width:80%;
+        justify-content: space-between;
+    }
+
+    #bar{
+        display: block;
+    }
+    
+
+}
+
+@media(min-width:1000px){
+    #bar{
+        display: none;
+    }
+
+    #content{
+        display: block;
+        display: flex;
+        width:80%;
+        justify-content: space-between; 
+        left: 15%;
+    }
+}
+
+
+@media(max-width:920px){
+
+.header:hover #content{
+    display: block;
+
+}
+
+#content{
+    left:2px;
+    top:48px;
+    padding: 1px;
+    background-color: aqua;
+    width: 100%;
+}
+
+
+}

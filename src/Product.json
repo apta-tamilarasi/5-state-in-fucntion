@@ -1,0 +1,105 @@
+{
+    "product":[
+        {
+            "name":" Anarkali Kurti ...",
+            "id":"1",
+            "newrate":"507",
+            "oldrate":"533",
+            "offer":"5",
+            "image":"https://images.meesho.com/images/products/135665515/di0j8_400.webp",
+            "rating":"4.0",
+            "review":"10030"
+
+        },
+
+        {
+            "name":"Kashvi Sensational ...",
+            "id":"2",
+            "newrate":"272",
+            "oldrate":"279",
+            "offer":"3",
+            "image":"https://images.meesho.com/images/products/95569992/wkd3r_400.webp",
+            "rating":"3.7",
+            "review":"101737"
+
+        },
+
+        {
+            "name":"",
+            "id":"3",
+            "newrate":"282",
+            "oldrate":"299",
+            "offer":"6",
+            "image":"https://images.meesho.com/images/products/237968313/97ukw_400.webp",
+            "rating":"3.8",
+            "review":"8272"
+
+        },
+
+
+        {
+            "name":"Trendy Glamorous ...",
+            "id":"4",
+            "newrate":"237",
+            "oldrate":"262",
+            "offer":"10",
+            "image":"https://images.meesho.com/images/products/202911680/d6jhd_400.webp",
+            "rating":"4.1",
+            "review":"5294"
+
+        },
+
+
+        {
+            "name":"Classy Sensational ...",
+            "id":"5",
+            "newrate":"273",
+            "oldrate":"290",
+            "offer":"6",
+            "image":"https://images.meesho.com/images/products/53446228/puu5s_400.webp",
+            "rating":"4.0",
+            "review":"2318"
+
+        },
+
+
+        {
+            "name":"Abhisarika Pretty ...",
+            "id":"6",
+            "newrate":"486",
+            "oldrate":"511",
+            "offer":"5",
+            "image":"https://images.meesho.com/images/products/279864734/kawej_400.webp",
+            "rating":"3.9",
+            "review":"3890"
+
+        },
+
+
+        {
+            "name":"Alisha Voguish Women ...",
+            "id":"7",
+            "newrate":"663",
+            "oldrate":"697",
+            "offer":"5",
+            "image":"https://images.meesho.com/images/products/306170257/3bxoj_400.webp",
+            "rating":"4.0",
+            "review":"19415"
+
+        },
+
+        {
+            "name":"Kashvi Pretty Women ...",
+            "id":"8",
+            "newrate":"535",
+            "oldrate":"562",
+            "offer":"5",
+            "image":"https://images.meesho.com/images/products/309427824/ls3ve_400.webp",
+            "rating":"3.8",
+            "review":"23111"
+
+        }
+
+        
+    ]
+}

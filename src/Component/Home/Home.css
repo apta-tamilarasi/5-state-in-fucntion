@@ -1,0 +1,57 @@
+.home{
+	height:100vh;
+}
+
+.home-row{
+	height:100vh;
+}
+
+.home-row h2{
+		color:#05fcfc;
+		font-family:lucida handwriting;
+		position:absolute;
+		font-size:18px;
+		top:40%;
+		left:5%;
+		
+}
+
+.home-row{
+	background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../.././image/dream.jpg);
+	background-position:center;
+	background-attachment:fixed;
+	background-size:cover;
+	/*height:400px;*/
+	position:relative;
+}
+
+.home-row p{
+		color:white;
+		font-family:Lovers+Quarrel;
+		color:white;
+		text-shadow:0px 10px 10px pink;
+		font-style: normal;
+		font-weight: 400;
+		position:absolute;
+		top:50%;
+		left:10%;
+		font-size:17px;
+		
+}
+
+.home-row h3{
+		color:white;
+		font-family:lucida handwriting;
+		position:absolute;
+		top:75%;
+		left:10%;
+		font-size:18px;
+		
+}
+
+.home-row h3:hover{
+			font-size:20px;
+			transform:translate(5%);
+			transition-duration:1s;
+			color:white;
+}
